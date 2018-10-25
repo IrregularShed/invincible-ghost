@@ -1,0 +1,27 @@
+{
+  "name": "invincible-ghost",
+  "version": "0.0.1",
+  "description": "A simple barcode-generating Node app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsbarcode": "^3.11.0",
+    "canvas": "^2.0.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/invincible-ghost"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "barcode"
+  ]
+}

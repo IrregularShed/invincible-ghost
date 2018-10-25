@@ -1,2 +1,6 @@
 # invincible-ghost
-A simple barcode-generating app, over on Glitch.com
+A simple barcode-generating app.
+
+-------------------
+
+\ ゜o゜)ノ
